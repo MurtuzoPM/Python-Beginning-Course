@@ -1,0 +1,475 @@
+Sep/12/2023 15:13:23 ovpn,info,account khorog logged out, 569776 0 0 0 0 from 109.75.54.210
+Sep/12/2023 15:13:24 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.210
+Sep/12/2023 15:19:19 ovpn,info,account khorog logged out, 355 965718 26962578 11573 20394 from 109.75.54.210
+Sep/12/2023 15:19:25 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.210
+Sep/12/2023 15:23:01 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/12/2023 15:26:24 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/12/2023 15:36:05 ovpn,info,account khorog logged out, 1000 365898 17137184 6650 12429 from 109.75.54.210
+Sep/12/2023 15:38:07 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.210
+Sep/12/2023 15:43:19 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.210
+Sep/12/2023 15:44:07 ovpn,info,account khorog logged out, 360 587941 11339975 6129 9269 from 109.75.54.210
+Sep/12/2023 15:50:42 ovpn,info,account khorog logged out, 442 1173089 20558395 10862 16914 from 109.75.54.210
+Sep/12/2023 15:50:47 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.210
+Sep/12/2023 15:55:26 ovpn,info,account khorog logged out, 278 832042 27478407 11366 20331 from 109.75.54.210
+Sep/12/2023 15:55:31 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.210
+Sep/12/2023 15:57:12 ovpn,info,account khorog logged out, 100 19576 855246 390 618 from 109.75.54.210
+Sep/12/2023 16:01:44 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.210
+Sep/12/2023 16:12:48 ovpn,info,account khorog logged out, 664 1640159 27963470 13953 22332 from 109.75.54.210
+Sep/12/2023 16:12:54 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.210
+Sep/12/2023 16:18:15 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.210
+Sep/12/2023 16:18:34 ovpn,info,account khorog logged out, 340 24422 938851 475 687 from 109.75.54.210
+Sep/12/2023 16:39:46 ovpn,info,account khorog logged out, 1291 2009854 22564494 14081 20050 from 109.75.54.210
+Sep/12/2023 16:39:51 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.210
+Sep/12/2023 16:42:52 ovpn,info,account khorog logged out, 181 534805 25872250 10063 18840 from 109.75.54.210
+Sep/12/2023 16:47:32 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.210
+Sep/12/2023 16:50:53 ovpn,info,account khorog logged out, 200 589158 25690911 10050 18676 from 109.75.54.210
+Sep/12/2023 16:55:00 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.210
+Sep/12/2023 17:03:01 ovpn,info,account khorog logged out, 480 1322827 27012502 12583 21276 from 109.75.54.210
+Sep/12/2023 17:03:06 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.210
+Sep/12/2023 17:07:10 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/12/2023 17:07:20 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/12/2023 17:07:39 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/12/2023 17:07:46 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/12/2023 17:40:25 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/12/2023 17:50:28 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/12/2023 18:05:34 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/12/2023 18:06:25 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/12/2023 18:06:58 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/12/2023 18:07:46 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/12/2023 18:14:24 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/12/2023 18:14:26 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/12/2023 19:22:29 ovpn,info,account khorog logged out, 8363 16695551 59112465 66575 75016 from 109.75.54.210
+Sep/13/2023 08:01:53 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.210
+Sep/13/2023 09:42:29 system,info,account user fm logged in from 10.154.209.187 via winbox
+Sep/13/2023 09:42:31 system,info,account user fm logged out from 10.154.209.187 via winbox
+Sep/13/2023 09:58:35 ovpn,info,account khorog logged out, 7002 13805072 51910262 56099 64009 from 109.75.54.210
+Sep/13/2023 10:04:20 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/13/2023 10:19:42 system,info,account user fm logged in from 192.168.5.10 via local
+Sep/13/2023 10:31:54 system,info,account user fm logged in from 192.168.5.10 via local
+Sep/13/2023 10:32:07 system,info,account user fm logged out from 192.168.5.10 via local
+Sep/13/2023 10:32:33 system,info,account user fm logged out from 192.168.5.10 via local
+Sep/13/2023 10:40:42 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/13/2023 10:42:00 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/13/2023 10:45:16 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/13/2023 11:03:08 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/13/2023 11:06:29 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/13/2023 11:06:38 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/13/2023 11:08:34 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/13/2023 11:08:38 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/13/2023 11:23:02 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/13/2023 11:28:06 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.52
+Sep/13/2023 11:28:38 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/13/2023 11:28:47 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/13/2023 11:28:55 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.52
+Sep/13/2023 11:29:26 ovpn,info,account khorog logged out, 80 1724 400 21 5 from 109.75.54.52
+Sep/13/2023 11:29:40 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Sep/13/2023 11:36:15 ovpn,info,account khorog logged out, 440 1064458 55328170 20877 39655 from 109.75.54.52
+Sep/13/2023 11:36:21 ovpn,info,account romanTM logged out, 401 438647 1083185 1950 1945 from 217.14.200.131
+Sep/13/2023 11:38:07 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.52
+Sep/13/2023 11:38:41 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/13/2023 11:39:31 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Sep/13/2023 11:40:43 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/13/2023 11:41:30 ovpn,info,account romanTM logged out, 119 484405 1192212 2760 2549 from 217.14.200.131
+Sep/13/2023 11:42:57 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Sep/13/2023 11:44:33 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/13/2023 11:44:56 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/13/2023 11:58:29 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/13/2023 12:00:43 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/13/2023 13:41:03 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/13/2023 13:41:29 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/13/2023 15:00:45 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/13/2023 15:13:09 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/13/2023 15:13:18 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/13/2023 15:13:19 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/13/2023 18:07:02 ovpn,info,account romanTM logged out, 23045 7238973 34590266 120850 123442 from 217.14.200.131
+Sep/13/2023 18:37:17 ovpn,info,account khorog logged out, 25150 44462836 105974804 168725 169404 from 109.75.54.52
+Sep/14/2023 08:01:23 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.52
+Sep/14/2023 10:00:45 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Sep/14/2023 10:28:50 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/14/2023 10:28:59 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/14/2023 17:44:37 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/14/2023 17:46:47 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/14/2023 17:46:55 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/14/2023 17:46:57 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/14/2023 18:11:33 ovpn,info,account romanTM logged out, 29448 9561125 27108323 125912 107840 from 217.14.200.131
+Sep/15/2023 08:55:02 ovpn,info,account khorog logged out, 89619 179030443 346501776 612433 599117 from 109.75.54.52
+Sep/15/2023 09:20:17 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.29
+Sep/15/2023 11:21:16 ovpn,info,account khorog logged out, 7259 14216775 50476304 59729 65857 from 109.75.56.29
+Sep/15/2023 11:21:19 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.29
+Sep/15/2023 11:28:08 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Sep/15/2023 12:49:04 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/15/2023 12:51:23 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/15/2023 12:51:35 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/15/2023 12:52:06 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/15/2023 13:08:30 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/15/2023 13:08:43 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/15/2023 13:10:35 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/15/2023 13:18:44 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/15/2023 13:27:24 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/15/2023 13:30:09 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/15/2023 14:55:02 ovpn,info,account khorog logged out, 12823 23111012 75895700 91133 99610 from 109.75.56.29
+Sep/15/2023 14:55:08 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.29
+Sep/15/2023 15:03:05 ovpn,info,account khorog logged out, 476 11065 2623 156 27 from 109.75.56.29
+Sep/15/2023 15:03:14 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.95
+Sep/15/2023 15:22:17 ovpn,info,account khorog logged out, 1143 20664 405388 355 348 from 109.75.54.95
+Sep/15/2023 15:22:49 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.95
+Sep/15/2023 15:24:40 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.7
+Sep/15/2023 15:24:42 ovpn,info,account khorog logged out, 100 4674 416 60 6 from 109.75.54.95
+Sep/15/2023 15:50:31 ovpn,info,account khorog logged out, 1542 11994 1584 190 79 from 109.75.56.7
+Sep/15/2023 18:12:54 ovpn,info,account romanTM logged out, 24286 3003444 18248687 55979 59621 from 217.14.200.131
+Sep/16/2023 08:07:41 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.179
+Sep/16/2023 09:03:51 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/16/2023 11:29:07 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/16/2023 11:32:41 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/16/2023 11:37:33 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/16/2023 11:39:52 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/16/2023 11:40:05 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/16/2023 19:43:48 ovpn,info,account khorog logged out, 41766 83331500 252135112 325760 348863 from 109.75.54.179
+Sep/17/2023 11:50:17 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.179
+Sep/17/2023 18:40:21 ovpn,info,account khorog logged out, 24604 48762152 103659969 170671 170716 from 109.75.54.179
+Sep/18/2023 08:03:50 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.179
+Sep/18/2023 10:33:03 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/18/2023 10:40:19 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Sep/18/2023 11:24:47 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/18/2023 11:45:08 ovpn,info,account romanTM logged out, 3889 2752537 6463980 35510 26948 from 217.14.200.131
+Sep/18/2023 11:46:55 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Sep/18/2023 13:47:04 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/18/2023 14:04:50 ovpn,info,account khorog logged out, 21659 41944625 248568408 199946 256459 from 109.75.54.179
+Sep/18/2023 14:04:54 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.179
+Sep/18/2023 14:37:17 ovpn,info,account romanTM logged out, 10222 918425 5395934 18072 18417 from 217.14.200.131
+Sep/18/2023 14:38:33 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Sep/18/2023 14:46:14 ovpn,info,account romanTM logged out, 461 195740 335699 1057 1089 from 217.14.200.131
+Sep/18/2023 14:47:41 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Sep/18/2023 14:49:48 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/18/2023 14:50:53 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/18/2023 15:45:17 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/18/2023 16:07:42 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/18/2023 16:14:01 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/18/2023 18:04:34 ovpn,info,account romanTM logged out, 11813 1775541 6547595 27010 23911 from 217.14.200.131
+Sep/18/2023 18:59:37 ovpn,info,account khorog logged out, 17682 34473106 106886470 133187 145687 from 109.75.54.179
+Sep/19/2023 08:07:04 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.179
+Sep/19/2023 10:25:55 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Sep/19/2023 13:05:58 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/19/2023 13:06:00 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/19/2023 15:37:12 ovpn,info,account khorog logged out, 27007 52807385 189819482 210349 238444 from 109.75.54.179
+Sep/19/2023 15:53:38 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.179
+Sep/19/2023 16:35:19 ovpn,info,account khorog logged out, 2501 5164577 36672778 26577 35592 from 109.75.54.179
+Sep/19/2023 16:52:42 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.179
+Sep/19/2023 18:06:27 ovpn,info,account romanTM logged out, 27632 6116520 29873813 97963 93048 from 217.14.200.131
+Sep/19/2023 18:53:35 ovpn,info,account khorog logged out, 7252 14679002 54620566 59034 67473 from 109.75.54.179
+Sep/19/2023 18:53:37 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.179
+Sep/19/2023 18:55:23 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Sep/19/2023 19:16:05 ovpn,info,account khorog logged out, 1348 2838471 33039479 18630 28442 from 109.75.54.179
+Sep/19/2023 21:53:59 ovpn,info,account romanTM logged out, 10715 5535562 16338446 60513 49816 from 217.14.200.131
+Sep/19/2023 22:45:37 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Sep/19/2023 22:55:24 ovpn,info,account romanTM logged out, 587 973243 1511245 9703 6982 from 217.14.200.131
+Sep/20/2023 08:02:01 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.179
+Sep/20/2023 09:47:23 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Sep/20/2023 13:03:01 ovpn,info,account khorog logged out, 18060 35391560 99552066 132084 140789 from 109.75.54.179
+Sep/20/2023 13:03:04 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.179
+Sep/20/2023 13:44:45 ovpn,info,account khorog logged out, 2501 4608513 35686574 24730 33998 from 109.75.54.179
+Sep/20/2023 13:45:25 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/20/2023 13:49:10 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/20/2023 13:52:41 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/20/2023 13:52:56 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/20/2023 13:58:43 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.179
+Sep/20/2023 14:11:04 ovpn,info,account khorog logged out, 740 1670383 30258568 14568 24119 from 109.75.54.179
+Sep/20/2023 14:15:31 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.179
+Sep/20/2023 14:22:12 ovpn,info,account khorog logged out, 400 1014360 28797030 12364 21782 from 109.75.54.179
+Sep/20/2023 14:37:07 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.55.50
+Sep/20/2023 14:40:28 ovpn,info,account khorog logged out, 201 417629 19797861 7678 14314 from 109.75.55.50
+Sep/20/2023 14:44:53 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.55.50
+Sep/20/2023 18:02:21 ovpn,info,account romanTM logged out, 29697 7228344 19597028 120759 113452 from 217.14.200.131
+Sep/20/2023 19:32:04 ovpn,info,account khorog logged out, 17231 24886011 137143367 117798 146862 from 109.75.55.50
+Sep/21/2023 08:08:52 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.55.50
+Sep/21/2023 10:52:37 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Sep/21/2023 15:17:42 system,info,account user fm logged in from 217.11.177.130 via winbox
+Sep/21/2023 15:17:55 system,info,account user fm logged out from 217.11.177.130 via winbox
+Sep/21/2023 15:18:10 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/21/2023 15:18:11 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/21/2023 15:18:26 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/21/2023 15:42:11 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/21/2023 15:52:42 ovpn,info,account romanTM logged out, 18004 2457169 12748207 40481 40749 from 217.14.200.131
+Sep/21/2023 15:52:48 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Sep/21/2023 16:52:51 ovpn,info,account romanTM logged out, 3603 182091 361903 4330 4225 from 217.14.200.131
+Sep/21/2023 16:52:57 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Sep/21/2023 17:23:59 ovpn,info,account khorog logged out, 33306 65466056 152231138 233639 238262 from 109.75.55.50
+Sep/21/2023 17:28:56 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.55.50
+Sep/21/2023 17:35:49 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/21/2023 17:36:37 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/21/2023 17:38:16 ovpn,info,account khorog logged out, 560 1302287 26905547 12558 21005 from 109.75.55.50
+Sep/21/2023 17:49:22 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.163
+Sep/21/2023 18:04:36 ovpn,info,account romanTM logged out, 4299 257707 756940 5714 5563 from 217.14.200.131
+Sep/21/2023 19:47:24 ovpn,info,account khorog logged out, 7081 14346509 76447639 65195 81721 from 109.75.54.163
+Sep/22/2023 08:08:58 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.114
+Sep/22/2023 11:10:12 ovpn,info,account khorog logged out, 10874 20815407 81701959 85172 98851 from 109.75.56.114
+Sep/22/2023 11:10:18 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.114
+Sep/22/2023 11:48:21 ovpn,info,account khorog logged out, 2281 4784391 180107845 71851 132388 from 109.75.56.114
+Sep/22/2023 12:22:07 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.54
+Sep/22/2023 17:15:46 system,info,account user fm logged in from 192.168.5.10 via winbox
+Sep/22/2023 17:16:14 system,info,account user fm logged out from 192.168.5.10 via winbox
+Sep/22/2023 19:49:02 ovpn,info,account khorog logged out, 26815 50581852 122015144 191054 192464 from 109.75.54.54
+Sep/23/2023 07:57:51 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.212
+Sep/23/2023 17:41:41 ovpn,info,account khorog logged out, 35030 69177088 157312070 246028 252049 from 109.75.56.212
+Sep/23/2023 17:52:39 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.162
+Sep/23/2023 21:34:21 ovpn,info,account khorog logged out, 13302 25877796 72012389 96647 105167 from 109.75.54.162
+Sep/25/2023 08:01:05 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.161
+Sep/25/2023 12:01:28 ovpn,info,account khorog logged out, 14423 26651785 77895438 105761 112708 from 109.75.56.161
+Sep/25/2023 12:12:22 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.97
+Sep/25/2023 12:36:54 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Sep/25/2023 18:11:52 ovpn,info,account romanTM logged out, 20097 4289074 14309192 59378 55594 from 217.14.200.131
+Sep/25/2023 18:44:04 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.97
+Sep/25/2023 18:44:30 ovpn,info,account khorog logged out, 23527 45740391 118368889 169367 175573 from 109.75.56.97
+Sep/25/2023 19:43:25 ovpn,info,account khorog logged out, 3561 267373 5325233 2861 4454 from 109.75.56.97
+Sep/25/2023 19:54:45 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.18
+Sep/25/2023 20:51:21 ovpn,info,account khorog logged out, 3395 20116 3220 341 175 from 109.75.56.18
+Sep/25/2023 21:03:05 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.15
+Sep/25/2023 22:15:03 ovpn,info,account khorog logged out, 4318 22864 3817 391 217 from 109.75.56.15
+Sep/26/2023 02:36:48 l2tp,ppp,info,account atlastaxi logged out, 1299277 720502425 12013691217 7542460 9689570 from 10.154.57.131
+Sep/26/2023 02:36:56 l2tp,ppp,info,account atlastaxi logged in, 192.168.15.15 from 10.154.57.131
+Sep/26/2023 08:00:55 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.15
+Sep/26/2023 11:04:19 ovpn,info,account khorog logged out, 11002 21680875 58342503 84254 86567 from 109.75.56.15
+Sep/26/2023 12:53:43 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.15
+Sep/26/2023 15:59:21 l2tp,ppp,info,account atlastaxi logged out, 48144 27659390 372021410 240887 314565 from 10.154.57.131
+Sep/26/2023 17:02:03 l2tp,ppp,info,account atlastaxi logged in, 192.168.15.15 from 10.154.57.131
+Sep/26/2023 18:21:57 ovpn,info,account khorog logged out, 19694 15501705 52748603 64889 71336 from 109.75.56.15
+Sep/27/2023 08:13:58 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.15
+Sep/27/2023 10:14:58 ovpn,info,account khorog logged out, 7260 14653765 51019229 57822 64548 from 109.75.56.15
+Sep/27/2023 10:15:01 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.15
+Sep/27/2023 14:08:25 ovpn,info,account khorog logged out, 14004 28041702 77778162 104549 110075 from 109.75.56.15
+Sep/27/2023 14:18:46 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.104
+Sep/27/2023 15:13:06 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.144
+Sep/27/2023 15:13:46 ovpn,info,account khorog logged out, 3300 1387398 61901036 25125 45494 from 109.75.54.104
+Sep/27/2023 16:39:08 ovpn,info,account khorog logged out, 5162 279162 131290 1463 1161 from 109.75.54.144
+Sep/27/2023 16:39:11 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.194
+Sep/27/2023 17:39:41 ovpn,info,account khorog logged out, 3629 499608 21146728 8917 15788 from 109.75.56.194
+Sep/27/2023 17:40:00 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.194
+Sep/27/2023 18:30:48 ovpn,info,account khorog logged out, 3042 1355270 44174905 19412 33562 from 109.75.56.194
+Sep/28/2023 08:09:58 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.194
+Sep/28/2023 16:05:42 ovpn,info,account khorog logged out, 28544 57155869 119128757 209001 204445 from 109.75.56.194
+Sep/28/2023 17:41:10 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Sep/28/2023 18:04:18 ovpn,info,account romanTM logged out, 1387 861451 3228649 7966 7879 from 217.14.200.131
+Sep/28/2023 18:14:20 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Sep/28/2023 19:07:06 ovpn,info,account romanTM logged out, 3165 1317305 5290164 13215 11963 from 217.14.200.131
+Sep/29/2023 04:56:31 l2tp,ppp,info,account atlastaxi logged out, 215668 321213769 892470776 852067 941882 from 10.154.57.131
+Sep/29/2023 05:58:23 l2tp,ppp,info,account atlastaxi logged in, 192.168.15.15 from 10.154.57.131
+Sep/29/2023 07:57:41 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.194
+Sep/29/2023 10:23:24 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Sep/29/2023 10:46:32 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Sep/29/2023 10:46:39 ovpn,info,account romanTM logged out, 1395 1865919 4776335 16116 12814 from 217.14.200.131
+Sep/29/2023 10:58:42 ovpn,info,account khorog logged out, 10861 21784081 69287599 83758 91321 from 109.75.56.194
+Sep/29/2023 10:58:45 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.194
+Sep/29/2023 12:59:45 ovpn,info,account khorog logged out, 7260 14670310 76225136 65983 81631 from 109.75.56.194
+Sep/29/2023 12:59:48 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.194
+Sep/29/2023 14:53:02 ovpn,info,account romanTM logged out, 14790 605028 1059087 4975 4367 from 217.14.200.131
+Sep/29/2023 14:53:04 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Sep/29/2023 18:04:26 ovpn,info,account romanTM logged out, 11482 46498 9536 799 576 from 217.14.200.131
+Sep/29/2023 19:14:38 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.194
+Sep/29/2023 19:14:52 ovpn,info,account khorog logged out, 22504 45245877 246916412 207230 260458 from 109.75.56.194
+Sep/29/2023 20:45:25 ovpn,info,account khorog logged out, 5447 9800810 479705955 183163 346143 from 109.75.56.194
+Sep/29/2023 20:57:26 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.11
+Sep/29/2023 21:57:52 ovpn,info,account khorog logged out, 3622 3963958 190383353 74171 138137 from 109.75.56.11
+Sep/29/2023 21:57:58 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.11
+Sep/30/2023 19:31:52 ovpn,info,account khorog logged out, 77633 84352212 247020684 330144 350301 from 109.75.56.11
+Oct/01/2023 10:24:18 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.11
+Oct/01/2023 19:24:32 ovpn,info,account khorog logged out, 32414 64461593 142531139 227031 228910 from 109.75.56.11
+Oct/01/2023 19:24:37 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.11
+Oct/02/2023 03:28:13 l2tp,ppp,info,account atlastaxi logged out, 250190 134244984 1029859116 828753 1031468 from 10.154.57.131
+Oct/02/2023 08:31:25 l2tp,ppp,info,account atlastaxi logged in, 192.168.15.15 from 10.154.57.131
+Oct/02/2023 08:32:30 l2tp,ppp,info,account atlastaxi logged out, 65 24402 19000 86 71 from 10.154.57.131
+Oct/02/2023 10:06:38 l2tp,ppp,info,account atlastaxi logged in, 192.168.15.15 from 10.154.57.131
+Oct/02/2023 11:25:35 ovpn,info,account khorog logged out, 57657 24726597 89298411 105270 118265 from 109.75.56.11
+Oct/02/2023 11:25:37 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.11
+Oct/02/2023 16:29:23 ovpn,info,account khorog logged out, 18226 36078851 221356682 171612 222841 from 109.75.56.11
+Oct/02/2023 17:21:01 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.109
+Oct/02/2023 19:14:01 ovpn,info,account khorog logged out, 6779 13313430 51705021 57747 65153 from 109.75.54.109
+Oct/03/2023 12:58:51 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/03/2023 16:07:11 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.49.238
+Oct/03/2023 16:14:00 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/03/2023 16:14:26 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/03/2023 16:14:33 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/03/2023 16:14:42 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/03/2023 16:14:46 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/03/2023 16:15:13 system,info,account user fm logged in from 217.11.177.130 via winbox
+Oct/03/2023 16:15:22 system,info,account user fm logged out from 217.11.177.130 via winbox
+Oct/03/2023 16:16:56 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/03/2023 16:17:06 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/03/2023 19:48:18 ovpn,info,account khorog logged out, 13267 25072439 74142191 98322 105187 from 109.75.49.238
+Oct/04/2023 06:55:05 l2tp,ppp,info,account atlastaxi logged out, 161308 446564408 7791241353 5596488 6235340 from 10.154.57.131
+Oct/04/2023 08:11:42 l2tp,ppp,info,account atlastaxi logged in, 192.168.15.15 from 10.154.57.131
+Oct/04/2023 08:11:47 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.49.238
+Oct/04/2023 11:18:11 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Oct/04/2023 12:12:46 ovpn,info,account khorog logged out, 14459 26585580 80036923 108195 115294 from 109.75.49.238
+Oct/04/2023 12:12:49 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.49.238
+Oct/04/2023 18:02:27 ovpn,info,account romanTM logged out, 24256 2471973 6733226 47434 45713 from 217.14.200.131
+Oct/04/2023 19:18:20 ovpn,info,account khorog logged out, 25531 49279311 124052638 182148 187308 from 109.75.49.238
+Oct/05/2023 02:03:36 l2tp,ppp,info,account atlastaxi logged out, 64314 81763909 659297356 542687 647519 from 10.154.57.131
+Oct/05/2023 02:17:01 l2tp,ppp,info,account atlastaxi logged in, 192.168.15.15 from 10.154.57.131
+Oct/05/2023 02:19:06 l2tp,ppp,info,account atlastaxi logged out, 125 36369 13963 84 71 from 10.154.57.131
+Oct/05/2023 02:41:04 l2tp,ppp,info,account atlastaxi logged in, 192.168.15.15 from 10.154.57.131
+Oct/05/2023 03:23:10 l2tp,ppp,info,account atlastaxi logged out, 2526 126918 55532 376 320 from 10.154.57.131
+Oct/05/2023 03:33:17 l2tp,ppp,info,account atlastaxi logged in, 192.168.15.15 from 10.154.57.131
+Oct/05/2023 08:11:16 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.49.238
+Oct/05/2023 11:26:49 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Oct/05/2023 13:21:24 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/05/2023 13:26:37 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/05/2023 13:27:05 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/05/2023 13:27:11 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/05/2023 13:28:04 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/05/2023 13:30:56 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/05/2023 13:54:31 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Oct/05/2023 13:54:38 ovpn,info,account romanTM logged out, 8869 2095752 6149174 26992 24612 from 217.14.200.131
+Oct/05/2023 14:30:23 ovpn,info,account romanTM logged out, 2152 595702 3592267 5874 6772 from 217.14.200.131
+Oct/05/2023 14:32:11 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Oct/05/2023 16:58:05 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/05/2023 18:02:31 ovpn,info,account romanTM logged out, 12620 1908347 18914482 31952 36961 from 217.14.200.131
+Oct/05/2023 18:52:50 ovpn,info,account khorog logged out, 38494 72729257 251852421 299997 331703 from 109.75.49.238
+Oct/06/2023 08:08:31 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.49.238
+Oct/06/2023 09:09:36 ovpn,info,account khorog logged out, 3665 7303770 32662669 33021 38417 from 109.75.49.238
+Oct/06/2023 09:09:39 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.49.238
+Oct/06/2023 13:08:54 system,info,account user fm logged in from 217.11.177.130 via winbox
+Oct/06/2023 13:12:39 system,info,account user fm logged out from 217.11.177.130 via winbox
+Oct/06/2023 13:12:56 system,info,account user fm logged in from 217.11.177.130 via winbox
+Oct/06/2023 13:23:26 system,info,account user fm logged out from 217.11.177.130 via winbox
+Oct/06/2023 13:23:30 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/06/2023 13:26:23 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/06/2023 13:26:27 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/06/2023 13:51:39 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/06/2023 13:54:09 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/06/2023 13:54:57 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/06/2023 13:55:10 l2tp,ppp,info,account beeyor logged in, 192.168.15.16 from 10.157.16.54
+Oct/06/2023 14:01:33 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/06/2023 14:01:50 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/06/2023 14:01:51 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/06/2023 14:04:05 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/06/2023 14:04:20 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/06/2023 14:04:22 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/06/2023 14:04:22 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/06/2023 14:04:46 l2tp,ppp,info,account beeyor logged out, 575 1462300 1502218 21832 2568 from 10.157.16.54
+Oct/06/2023 14:06:16 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/06/2023 14:08:53 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/06/2023 14:55:46 ovpn,info,account khorog logged out, 20767 36160417 268195271 190556 257702 from 109.75.49.238
+Oct/06/2023 15:18:45 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.66
+Oct/06/2023 15:54:27 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Oct/06/2023 16:23:00 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/06/2023 16:52:03 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/06/2023 18:02:55 ovpn,info,account romanTM logged out, 7708 539167 1039951 6574 5563 from 217.14.200.131
+Oct/06/2023 18:19:38 ovpn,info,account khorog logged out, 10852 20967678 371141185 180592 296622 from 109.75.56.66
+Oct/06/2023 18:19:42 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.66
+Oct/06/2023 18:48:48 ovpn,info,account khorog logged out, 1746 3070534 150191429 57656 108512 from 109.75.56.66
+Oct/07/2023 08:12:33 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.45
+Oct/07/2023 11:13:31 ovpn,info,account khorog logged out, 10858 21699769 66527058 86644 92809 from 109.75.54.45
+Oct/07/2023 11:13:34 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.45
+Oct/07/2023 13:10:01 l2tp,ppp,info,account atlastaxi logged in, 192.168.15.15 from 10.154.57.131
+Oct/07/2023 13:10:25 l2tp,ppp,info,account atlastaxi logged out, 207428 11016466016 3784508360 14484104 10174999 from 10.154.57.131
+Oct/07/2023 13:14:35 ovpn,info,account khorog logged out, 7261 14391504 56666408 59966 68594 from 109.75.54.45
+Oct/07/2023 13:14:38 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.45
+Oct/07/2023 18:26:40 ovpn,info,account khorog logged out, 18722 36765029 269235439 192955 259335 from 109.75.54.45
+Oct/08/2023 13:29:55 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.45
+Oct/08/2023 18:42:48 ovpn,info,account khorog logged out, 18773 38040347 86028243 141842 140847 from 109.75.54.45
+Oct/09/2023 08:28:06 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.54.45
+Oct/09/2023 08:47:36 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/09/2023 08:47:46 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/09/2023 10:24:25 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/09/2023 10:24:29 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/09/2023 13:28:04 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/09/2023 13:28:17 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/09/2023 16:29:45 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/09/2023 16:30:12 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/09/2023 17:27:10 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/09/2023 17:27:33 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/09/2023 18:48:08 ovpn,info,account khorog logged out, 37202 71777311 164275181 269095 268705 from 109.75.54.45
+Oct/10/2023 08:10:51 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.15
+Oct/10/2023 08:51:02 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/10/2023 08:51:18 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/10/2023 11:05:34 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.15
+Oct/10/2023 11:06:13 ovpn,info,account khorog logged out, 10522 20523330 62756303 82662 87870 from 109.75.56.15
+Oct/10/2023 18:06:33 ovpn,info,account khorog logged out, 25259 47484955 117139956 174698 178734 from 109.75.56.15
+Oct/10/2023 18:06:36 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.15
+Oct/10/2023 19:04:03 ovpn,info,account khorog logged out, 3446 7604676 136522425 65779 108652 from 109.75.56.15
+Oct/10/2023 19:25:16 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/10/2023 19:52:41 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/10/2023 19:53:41 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/11/2023 08:13:39 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.15
+Oct/11/2023 09:41:39 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Oct/11/2023 09:42:33 l2tp,ppp,info,account atlastaxi logged out, 333153 27990836056 1438658891 31634577 18984707 from 10.154.57.131
+Oct/11/2023 10:39:20 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/11/2023 11:13:16 l2tp,ppp,info,account atlastaxi logged in, 192.168.15.15 from 10.154.57.131
+Oct/11/2023 11:41:43 ovpn,info,account romanTM logged out, 7203 1170180 6308822 16747 16106 from 217.14.200.131
+Oct/11/2023 11:41:49 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Oct/11/2023 12:05:11 ovpn,info,account romanTM logged out, 1401 41140 67179 829 776 from 217.14.200.131
+Oct/11/2023 12:06:27 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Oct/11/2023 13:54:49 ovpn,info,account romanTM logged out, 6501 1953913 8095215 35246 45742 from 217.14.200.131
+Oct/11/2023 13:57:32 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Oct/11/2023 14:14:34 ovpn,info,account romanTM logged out, 1021 1230977 4533868 14444 16146 from 217.14.200.131
+Oct/11/2023 14:18:03 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Oct/11/2023 14:52:22 l2tp,ppp,info,account atlastaxi logged out, 13147 134730225 1638933008 1080525 1461786 from 10.154.57.131
+Oct/11/2023 14:54:44 ovpn,info,account romanTM logged out, 2201 1357950 3898303 15283 17369 from 217.14.200.131
+Oct/11/2023 14:56:18 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Oct/11/2023 15:10:54 l2tp,ppp,info,account atlastaxi logged in, 192.168.15.15 from 10.154.57.131
+Oct/11/2023 15:56:19 ovpn,info,account romanTM logged out, 3600 1831135 6662957 29540 34749 from 217.14.200.131
+Oct/11/2023 15:56:25 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Oct/11/2023 16:43:20 ovpn,info,account khorog logged out, 30580 58598978 199578812 232538 257131 from 109.75.56.15
+Oct/11/2023 17:05:54 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/11/2023 17:08:54 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/11/2023 17:09:46 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/11/2023 17:17:13 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/11/2023 17:19:20 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/11/2023 17:19:25 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/11/2023 17:23:22 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/11/2023 17:23:37 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/11/2023 18:07:39 ovpn,info,account romanTM logged out, 7874 4773631 18494681 80920 81665 from 217.14.200.131
+Oct/11/2023 19:46:40 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/11/2023 19:49:05 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/12/2023 08:31:27 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.199
+Oct/12/2023 10:32:18 ovpn,info,account khorog logged out, 7251 14448035 56838325 59104 67567 from 109.75.56.199
+Oct/12/2023 10:32:20 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.199
+Oct/12/2023 11:23:33 system,info,account user fm logged in from 217.11.177.130 via winbox
+Oct/12/2023 11:34:02 system,info,account user fm logged out from 217.11.177.130 via winbox
+Oct/12/2023 11:42:05 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Oct/12/2023 14:25:11 system,info,account user fm logged in from 217.11.177.130 via winbox
+Oct/12/2023 14:25:56 system,info,account user fm logged out from 217.11.177.130 via winbox
+Oct/12/2023 14:33:20 ovpn,info,account khorog logged out, 14460 28349650 81872711 107381 113712 from 109.75.56.199
+Oct/12/2023 14:33:23 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.199
+Oct/12/2023 15:31:05 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/12/2023 15:32:30 l2tp,ppp,info,account beeyor logged in, 192.168.15.16 from 10.157.16.54
+Oct/12/2023 15:32:53 ovpn,info,account khorog logged out, 3570 8985163 431204610 164783 311542 from 109.75.56.199
+Oct/12/2023 15:32:54 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.199
+Oct/12/2023 15:33:35 l2tp,ppp,info,account beeyor logged out, 65 238 406 11 13 from 10.157.16.54
+Oct/12/2023 15:33:48 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/12/2023 15:35:19 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/12/2023 15:39:20 system,info,account user fm logged in from 217.11.177.130 via winbox
+Oct/12/2023 16:10:59 system,info,account user fm logged out from 217.11.177.130 via winbox
+Oct/12/2023 16:11:01 system,info,account user fm logged in from 217.11.177.130 via winbox
+Oct/12/2023 16:23:00 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/12/2023 16:38:14 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/12/2023 16:38:41 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/12/2023 16:40:59 system,info,account user fm logged in from 192.168.5.10 via winbox
+Oct/12/2023 17:01:08 system,info,account user fm logged out from 217.11.177.130 via winbox
+Oct/12/2023 17:01:10 system,info,account user fm logged in from 217.11.177.130 via winbox
+Oct/12/2023 17:03:11 system,info,account user fm logged out from 217.11.177.130 via winbox
+Oct/12/2023 17:03:13 system,info,account user fm logged in from 217.11.177.130 via winbox
+Oct/12/2023 17:32:36 ovpn,info,account khorog logged out, 7181 31608 6096 573 361 from 109.75.56.199
+Oct/12/2023 17:42:38 system,info,account user fm logged out from 217.11.177.130 via winbox
+Oct/12/2023 17:42:38 system,info,account user fm logged in from 217.11.177.130 via winbox
+Oct/12/2023 17:46:10 system,info,account user fm logged out from 192.168.5.10 via winbox
+Oct/12/2023 17:46:41 system,info,account user fm logged out from 217.11.177.130 via winbox
+Oct/12/2023 17:49:56 system,info,account user fm logged in from 217.11.177.130 via winbox
+Oct/12/2023 17:59:27 system,info,account user fm logged out from 217.11.177.130 via winbox
+Oct/12/2023 18:01:56 system,info,account user fm logged in from 217.11.177.130 via winbox
+Oct/12/2023 18:02:10 system,info,account user fm logged out from 217.11.177.130 via winbox
+Oct/12/2023 18:04:11 system,info,account user fm logged in from 217.11.177.130 via winbox
+Oct/12/2023 18:04:26 system,info,account user fm logged out from 217.11.177.130 via winbox
+Oct/12/2023 20:42:11 ovpn,info,account romanTM logged out, 32406 2671560 12963119 50302 63565 from 217.14.200.131
+Oct/12/2023 20:42:17 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Oct/12/2023 22:42:15 ovpn,info,account romanTM logged out, 7198 191096 391851 4342 4150 from 217.14.200.131
+Oct/12/2023 22:42:22 ovpn,info,account romanTM logged in, 192.168.15.2 from 217.14.200.131
+Oct/13/2023 01:35:50 ovpn,info,account romanTM logged out, 10407 273872 518611 6241 5937 from 217.14.200.131
+Oct/13/2023 05:37:19 l2tp,ppp,info,account atlastaxi logged out, 138385 39282269 510010165 350107 446609 from 10.154.57.131
+Oct/13/2023 05:44:57 l2tp,ppp,info,account atlastaxi logged in, 192.168.15.15 from 10.154.57.131
+Oct/13/2023 06:13:21 l2tp,ppp,info,account atlastaxi logged out, 1704 142085 68798 459 330 from 10.154.57.131
+Oct/13/2023 07:30:01 l2tp,ppp,info,account atlastaxi logged in, 192.168.15.15 from 10.154.57.131
+Oct/13/2023 08:01:32 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.199
+Oct/13/2023 08:01:34 ovpn,info,account khorog logged out, 2 0 0 0 0 from 109.75.56.199
+Oct/13/2023 08:01:35 ovpn,info,account khorog logged in, 192.168.15.8 from 109.75.56.199
+Oct/13/2023 10:07:14 system,info,account user fm logged in from 192.168.5.10 via winbox
