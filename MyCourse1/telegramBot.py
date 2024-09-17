@@ -1,7 +1,7 @@
 # import requests
 
 # # Параметры Telegram API
-# TOKEN = '7042171541:AAGl9NE7zNjmrpqeVvWhsowone3WcNiyT1M'
+# TOKEN = ''
 # CHAT_ID = '-4512801834'
 
 # def send_message_to_telegram(message):
@@ -66,7 +66,7 @@ def main(log_file_path, ip_address, telegram_token, chat_id):
 if __name__ == "__main__":
     log_file_path = 'C:\\Users\\murtuzo.mamadziyoev\\OneDrive - University of Central Asia\\Desktop\\python tutors\\New Course1\\log.txt'  # Путь к файлу с логами
     ip_address = '192.168.5.10'  # Введите здесь IP-адрес для поиска
-    telegram_token = '7042171541:AAGl9NE7zNjmrpqeVvWhsowone3WcNiyT1M'  # Введите здесь ваш токен бота Telegram
+    telegram_token = ''  # Введите здесь ваш токен бота Telegram
     chat_id = '-4512801834'  # Введите здесь ID вашей Telegram-группы
 
     main(log_file_path, ip_address, telegram_token, chat_id)
